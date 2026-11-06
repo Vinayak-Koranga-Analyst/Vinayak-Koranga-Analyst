@@ -2,7 +2,7 @@
 
 **Business Analyst | United Kingdom**
 
-I work between the business and delivery teams: I run workshops, write requirements, map processes and use data to back up recommendations. I have five years' experience across data analysis, technical business analysis and business analysis, on both Waterfall and Agile projects. I recently finished an MSc in Business Analytics at the University of Bristol.
+I work between the business and delivery teams: I run workshops, write requirements, map processes and use data to back up recommendations. I have five years' experience across data analysis, technical business analysis and business analysis, on both Waterfall and Agile projects. I hold an MSc in Business Analytics from the University of Bristol (2025).
 
 Website: [vinayakkoranga.com](https://vinayakkoranga.com)
 
@@ -15,7 +15,6 @@ Website: [vinayakkoranga.com](https://vinayakkoranga.com)
 | [ba-toolkit](https://github.com/Vinayak-Koranga-Analyst/ba-toolkit) | The templates I use: BRD, user stories, RACI, stakeholder map, RTM and UAT scripts, plus a short guide |
 | [online-returns-requirements](https://github.com/Vinayak-Koranga-Analyst/online-returns-requirements) | *Practice case study:* a full requirements pack for moving a retailer's returns process online |
 | [uk-labour-market-analysis](https://github.com/Vinayak-Koranga-Analyst/uk-labour-market-analysis) | UK labour market analysis 2019–2026 using ONS data, Python, SQL and Looker Studio |
-| [stock-volatility-analysis](https://github.com/Vinayak-Koranga-Analyst/stock-volatility-analysis) | Stock volatility analysis |
 
 Practice case studies use fictional organisations and are labelled as such. They show how I approach the work, not past client work.
 
@@ -36,7 +35,7 @@ Ran A/B tests on 50+ ad creatives, which lifted click-through rate 2.1x. Found l
 
 ## Education and certificates
 
-- **MSc Business Analytics (Merit)**, University of Bristol, 2024–2026
+- **MSc Business Analytics (Merit)**, University of Bristol, 2024–2025
 - **BSc Information Technology**, K.J. Somaiya College, Mumbai, 2016–2019
 - SAP Business Analyst (Coursera, 2026)
 - IBM Data Science (Coursera, 2026)

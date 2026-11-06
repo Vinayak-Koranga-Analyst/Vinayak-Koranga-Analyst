@@ -14,6 +14,7 @@ Website: [vinayakkoranga.com](https://vinayakkoranga.com)
 |---|---|
 | [ba-toolkit](https://github.com/Vinayak-Koranga-Analyst/ba-toolkit) | The templates I use: BRD, user stories, RACI, stakeholder map, RTM and UAT scripts, plus a short guide |
 | [online-returns-requirements](https://github.com/Vinayak-Koranga-Analyst/online-returns-requirements) | *Practice case study:* a full requirements pack for moving a retailer's returns process online |
+| [nhs-ae-waiting-times-analysis](https://github.com/Vinayak-Koranga-Analyst/nhs-ae-waiting-times-analysis) | NHS England A&E data (Apr 2024 – Sep 2026) in SQL and Python: 4-hour performance, regional and trust variation, and the link to trolley waits |
 | [uk-labour-market-analysis](https://github.com/Vinayak-Koranga-Analyst/uk-labour-market-analysis) | UK labour market analysis 2019–2026 using ONS data, Python, SQL and Looker Studio |
 
 Practice case studies use fictional organisations and are labelled as such. They show how I approach the work, not past client work.

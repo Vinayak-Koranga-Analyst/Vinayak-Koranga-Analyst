@@ -2,7 +2,7 @@
 
 **Business Analyst | United Kingdom**
 
-I work between the business and delivery teams: I run workshops, write requirements, map processes and use data to back up recommendations. I have five years' experience across data analysis, technical business analysis and business analysis, on both Waterfall and Agile projects. I hold an MSc in Business Analytics from the University of Bristol (2025).
+I work between the business and delivery teams: I run workshops, write requirements, map processes and use data to back up recommendations. I have around five years' experience in data and business analysis roles, starting as a Power BI intern, on both Waterfall and Agile projects. I hold an MSc in Business Analytics from the University of Bristol (2025).
 
 Website: [vinayakkoranga.com](https://vinayakkoranga.com)
 
@@ -25,10 +25,10 @@ Practice case studies use fictional organisations and are labelled as such. They
 **Business Analyst, AseUp Consultancy** (Mar 2023 – Jul 2024)
 Mostly Agile/Scrum. Ran 10+ requirements workshops, wrote BRDs and FRDs, and managed backlogs in Jira. Helped deliver two project phases 20 days early.
 
-**Technical Business Analyst, Cyberaon Technologies** (Jan 2021 – Mar 2023)
+**Technical Consultant, Cyberaon Technologies** (Jan 2021 – Mar 2023)
 Roughly 60% Waterfall, 40% Agile, across 20+ client engagements. Scope control on a 7-month build saved 80+ hours of rework. Cut requirement-related delivery issues by 20%.
 
-**Data Analyst, Digital Gorkha** (Jul 2019 – Jan 2021)
+**Power BI Intern, Digital Gorkha** (Jul 2019 – Jan 2021)
 Ran A/B tests on 50+ ad creatives, which lifted click-through rate 2.1x. Found logistics bottlenecks that were delaying 1 in 5 orders, which improved SLA performance by 15%.
 
 ---
@@ -37,15 +37,16 @@ Ran A/B tests on 50+ ad creatives, which lifted click-through rate 2.1x. Found l
 
 - **MSc Business Analytics (Merit)**, University of Bristol, 2024–2025
 - **BSc Information Technology**, K.J. Somaiya College, Mumbai, 2016–2019
-- SAP Business Analyst (Coursera, 2026)
-- IBM Data Science (Coursera, 2026)
+- Google Project Management Professional Certificate (Coursera, 2024)
+- IBM Data Science Professional Certificate (Coursera, 2026)
+- Microsoft Power BI Data Analyst Professional Certificate (Coursera, 2026)
 
 ---
 
 ## Tools
 
 **Business analysis:** BRDs/FRDs, user stories and acceptance criteria, process mapping (BPMN), stakeholder analysis, RACI, traceability, UAT
-**Delivery:** Jira, Kanban, Scrum, Waterfall
-**Data:** SQL, Python, Excel, Power BI, Tableau
+**Delivery:** Jira, Confluence, Kanban, Scrum, Waterfall
+**Data:** SQL, Python, Excel, Power Query, Power BI, Tableau
 **Diagrams and documents:** Visio, Lucidchart, PowerPoint
-**Other:** Hugging Face, Postman
+**Other:** Microsoft Dynamics 365, Git, Hugging Face, Postman
